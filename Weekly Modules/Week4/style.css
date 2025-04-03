@@ -1,0 +1,32 @@
+body {
+  font-size: 1.1rem;
+  text-align: center;
+  margin: 0 auto;
+  /* Horizontal Centering */
+}
+
+h1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+p {
+  width: 400px;
+  border: 1px solid crimson;
+  margin: 0 auto;
+  min-height: 200px;
+  /* T R B L */
+  /* padding: 30px 10px 50px 20px*/
+  padding-right: 20px;
+  margin-bottom: 20px;
+  background-color: beige;
+  border-bottom: 3px dashed green;
+}
+
+.vcenter {
+  line-height: 200px;
+  /* height - top padding - bottom padding*/
+  /* 200 - 20 - 20 = 160 */
+}
